@@ -35,6 +35,7 @@ The project was built to develop hands-on experience with Windows Server adminis
 ### 1. Architecture
 Designed a virtualized network environment connecting a Windows Server infrastructure system with a domain-joined Windows 11 workstation.
 
+![Digital Wolf IT Lab Architecture](architecture/diagram.png)
 ### 2. Windows Server
 Installed and configured Windows Server and prepared the environment for centralized infrastructure services.
 
