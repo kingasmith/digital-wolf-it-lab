@@ -37,5 +37,18 @@ The server provides the centralized services required for the domain environment
 - Windows administration
 
 ## Evidence
+### Server Name
+Configured the server with the hostname `DWT-SERVER01`.
 
+![Server Name](01-Server-Name-DWT-SERVER01.png)
+
+### Static IP Configuration
+Configured a static IP address for reliable infrastructure services.
+
+![Static IP](02-Server-Static-IP-192.168.10.10.png)
+
+### Network Connectivity Test
+Verified network connectivity from the server.
+
+![Network Test](03-Server-Network-Test.png)
 
