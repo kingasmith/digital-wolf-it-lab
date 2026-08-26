@@ -37,7 +37,7 @@ Tested access from the Windows client using different user accounts and security
 Created the company file structure used to organize departmental shared resources.
 ![file structure](01-Company-File-Structture.png)
 ### 2. Public Share Permissions
-
+![j](02-Public-Share-Permissions.png)
 Configured Share permissions for the Public shared resource.
 
 ### 3. Public NTFS Permissions
