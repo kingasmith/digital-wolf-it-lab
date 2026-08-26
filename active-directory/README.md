@@ -55,7 +55,7 @@ Configured the `digitalwolf.local` domain for the lab environment.
 
 Created organizational units to organize users by department and administrative function.
 
-![Active Directory OUs](03-Active-Directory-OU.png)
+![Active Directory OUs](03-Active-Directory-OUs.png)
 
 ### 4. Users & Security Groups
 
