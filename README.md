@@ -39,24 +39,31 @@ Designed a virtualized network environment connecting a Windows Server infrastru
 ### 2. Windows Server
 Installed and configured Windows Server and prepared the environment for centralized infrastructure services.
 
+[View Windows Server Documentation](window-server/)
 ### 3. Active Directory
 Created the `digitalwolf.local` domain and configured organizational units, users, security groups, and group memberships.
 
+[View Windows Server Documentation](active-directory/)
 ### 4. DNS & DHCP
 Configured DNS for domain name resolution and DHCP for automated IP address assignment.
 
+[View Windows Server Documentation](dns-dhcp/)
 ### 5. Group Policy
 Created and tested Group Policy settings to manage workstation configuration and security.
 
+[View Windows Server Documentation](group-policy/)
 ### 6. Windows Client
 Configured a Windows 11 workstation, joined it to the domain, and tested domain authentication.
 
+[View Windows Server Documentation](windows-client/)
 ### 7. File Server
 Created departmental shared folders and configured Share and NTFS permissions using Active Directory security groups.
 
+[View Windows Server Documentation](file-server/)
 ### 8. Help Desk & Troubleshooting
 Created simulated IT support incidents and practiced a complete troubleshooting workflow:
 
+[View Windows Server Documentation](helpdesk-tickets/)
 **Identify → Investigate → Diagnose → Resolve → Verify → Document**
 
 ## Help Desk Tickets
