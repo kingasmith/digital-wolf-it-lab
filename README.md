@@ -63,9 +63,9 @@ Created departmental shared folders and configured Share and NTFS permissions us
 ### 8. Help Desk & Troubleshooting
 Created simulated IT support incidents and practiced a complete troubleshooting workflow:
 
-[View Help Desk & Troubleshhoting Documentation](helpdesk-tickets/)
 **Identify → Investigate → Diagnose → Resolve → Verify → Document**
 
+[View Help Desk & Troubleshhoting Documentation](helpdesk-tickets/)
 ## Help Desk Tickets
 
 | Ticket | Issue | Skills Demonstrated |
