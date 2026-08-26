@@ -49,7 +49,7 @@ Installed the Active Directory Domain Services role on Windows Server to prepare
 
 Configured the `digitalwolf.local` domain for the lab environment.
 
-![Digital Wolf Domain](02-DigitalWolf-Domain.png)
+![Digital Wolf Domain](02-dIgitalWolf-Domain.png)
 
 ### 3. Organizational Units
 
@@ -61,7 +61,7 @@ Created organizational units to organize users by department and administrative 
 
 Created user accounts and security groups to simulate organizational access management.
 
-![Users and Security Groups](04-Users-and-Security-Groups.png)
+![Users and Security Groups](04-User-and-Security-Groups.png)
 
 ### 5. Domain Authentication
 
