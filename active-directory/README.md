@@ -37,4 +37,34 @@ Security groups were used to organize users and control access to resources.
 
 ## Evidence
 
+## Evidence
 
+### 1. Active Directory Domain Services Installation
+
+Installed the Active Directory Domain Services role on Windows Server to prepare the environment for centralized identity management.
+
+![AD DS Installation](01-ADDS-Installation.png)
+
+### 2. Digital Wolf Domain
+
+Configured the `digitalwolf.local` domain for the lab environment.
+
+![Digital Wolf Domain](02-DigitalWolf-Domain.png)
+
+### 3. Organizational Units
+
+Created organizational units to organize users by department and administrative function.
+
+![Active Directory OUs](03-Active-Directory-OUs.png)
+
+### 4. Users & Security Groups
+
+Created user accounts and security groups to simulate organizational access management.
+
+![Users and Security Groups](04-Users-and-Security-Groups.png)
+
+### 5. Domain Authentication
+
+Verified that a Windows client could authenticate using a domain account.
+
+![Domain Authentication](05-Domain-Authentication.png)
